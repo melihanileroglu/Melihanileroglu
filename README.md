@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melih Anıl Eroğlu</h1>
-<h3 align="center">GIS Analyst and Data Analyst at Parabol</h3>
+
 
 - 🔭 I work as GIS and Data analyst at Parabol [SUMP Izmır and Istanbul](https://sumpturkey.org/)
 
