@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**melihanileroglu/Melihanileroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Melih Anıl Eroğlu</h1>
+<h3 align="center">GIS Analyst and Data Analyst at Parabol</h3>
 
-Here are some ideas to get you started:
+- 🔭 I work as GIS and Data analyst at Parabol [SUMP Izmır and Istanbul](https://sumpturkey.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m cooperating Miuul Data Analyst Bootcamp [Teaching Asistant](https://miuul.com/data-analyst-bootcamp?gad_source=1&gclid=CjwKCAiAuYuvBhApEiwAzq_Yib9stapS4RwdDSpUxgSwipFsn8L-DKh5m0hJbVDuGpqsoD2yvX2NfBoCjM4QAvD_BwE)
+
+- 📫 How to reach me **melihanileroglu@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/Paraboly/Desktop/Melih_An%C4%B1l_Eroglu.html](file:///C:/Users/Paraboly/Desktop/Melih_An%C4%B1l_Eroglu.html)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/melihanileroglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melihanileroglu/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihanileroglu&show_icons=true&locale=en&layout=compact" alt="melihanileroglu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melihanileroglu&show_icons=true&locale=en" alt="melihanileroglu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melihanileroglu&" alt="melihanileroglu" /></p>
