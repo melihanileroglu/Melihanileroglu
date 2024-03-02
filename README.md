@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Melih Anıl Eroğlu</h1>
 <h3 align="center">GIS Analyst and Data Analyst at Parabol</h3>
 
@@ -9,7 +7,7 @@
 
 - 📫 How to reach me **melihanileroglu@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Paraboly/Desktop/Melih_An%C4%B1l_Eroglu.html](file:///C:/Users/Paraboly/Desktop/Melih_An%C4%B1l_Eroglu.html)
+- 📄 Know about my experiences [https://cms1.publuu.com/flipbook-maker/948891](https://cms1.publuu.com/flipbook-maker/948891)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
